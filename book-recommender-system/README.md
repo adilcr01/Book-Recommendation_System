@@ -8,14 +8,14 @@ social tags, and products in general.
 Recommender systems produce a list of recommendations in any of the two ways – 
  
 
-Collaborative filtering: 
+#### Collaborative filtering: 
 
     Collaborative filtering approaches build a model from the user’s past behavior
     (i.e. items purchased or searched by the user) as well as similar decisions 
     made by other users. This model is then used to predict items (or ratings for
     items) that users may have an interest in.
 
-Content-based filtering:
+#### Content-based filtering:
 
     Content-based filtering approaches uses a series of discrete characteristics 
     of an item in order to recommend additional items with similar properties. 
@@ -34,9 +34,6 @@ The idea behind it is that similar users will have similar preferences and that
 users have a tendency to like items that are similar to each another.
 
 
-
-
-
 #### Nearest Neighbour Based Recommendation
 
 To train the Nearest Neighbours model, we have created a compressed sparse row 
@@ -45,8 +42,6 @@ used to train the Nearest Neighbours model and then to find n nearest neighbors
 using brute algorithm in NearestNeighbors.
 
 ###### brute algorithm:  We instruct the algo to calculate distance of all the points and then decide neighbors
-
-
 
 ## Dataset used
 
@@ -89,3 +84,4 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 Check out the live demo: 
 https://book-recommender1.herokuapp.com/
 
+##### Note: You might 
