@@ -68,9 +68,15 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 
 #### Machine Learning Library: Numpy, Pandas, sklearn
 
+## Deployement on Heroku
 
+##### Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually to deploy this project.
 
-## How to run the project?
+![image](https://user-images.githubusercontent.com/93968656/141473301-75af8d20-2cef-4b1e-ab60-3b61c82de37d.png)
+
+##### The next step would be to follow the instruction given in the Heroku Documentation to deploy a web app.
+
+## How to run the project on local system?
 
    ##### 1. Clone this repository in your local system.
    ##### 2. Open your IDE from your project directory and Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt.
