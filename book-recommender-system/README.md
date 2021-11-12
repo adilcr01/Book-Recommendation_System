@@ -84,4 +84,4 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 Check out the live demo: 
 https://book-recommender1.herokuapp.com/
 
-##### Note: You might 
+##### Note: You might except problem in Safari and Chrome Browser. Use Firefox instead. 
