@@ -48,27 +48,6 @@ using brute algorithm in NearestNeighbors.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Dataset used
 
 Book Recommeder Dataset 
@@ -77,19 +56,22 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 
 #### home page
 
+![book recommender 1](https://user-images.githubusercontent.com/93968656/141471168-e5f0aff8-4b47-4bcf-be99-10676a34629a.png)
 
 
-
-
+![book recommender 2](https://user-images.githubusercontent.com/93968656/141471191-61d3ea4d-f4a0-4434-a1f6-04a445952e2f.png)
 
 #### Recomendation page
+![book recommender 3](https://user-images.githubusercontent.com/93968656/141471209-880b8106-4207-463f-81cf-8169093305a7.png)
+
+
 ## Tech Stacks
 
-Programming Language : Python
+#### Programming Language : Python
 
-WebFramework: Steamlit
+#### WebFramework: Steamlit
 
-Machine Learning Library: Numpy, Pandas, sklearn
+#### Machine Learning Library: Numpy, Pandas, sklearn
 
 
 
