@@ -70,7 +70,7 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 
 ## Deployement on Heroku
 
-##### Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually to deploy this project.
+##### Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
 ![image](https://user-images.githubusercontent.com/93968656/141473301-75af8d20-2cef-4b1e-ab60-3b61c82de37d.png)
 
